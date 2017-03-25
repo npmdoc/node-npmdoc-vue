@@ -1,174 +1,174 @@
 <svg height="2734" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="2734" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  1.  2017-03-25 14:39:06 +0000     1091 byte  LICENSE</tspan>
-<tspan x="10" y="42">  2.  2017-03-25 14:39:06 +0000     5508 byte  README.md</tspan>
-<tspan x="10" y="58">  3.  2017-03-25 14:39:06 +0000     4282 byte  dist/README.md</tspan>
-<tspan x="10" y="74">  4.  2017-03-25 14:39:06 +0000   246248 byte  dist/vue.common.js</tspan>
-<tspan x="10" y="90">  5.  2017-03-25 14:39:06 +0000    46860 byte  dist/vue.common.min.js</tspan>
-<tspan x="10" y="106">  6.  2017-03-25 14:39:06 +0000   246231 byte  dist/vue.esm.js</tspan>
-<tspan x="10" y="122">  7.  2017-03-25 14:39:06 +0000   244087 byte  dist/vue.js</tspan>
-<tspan x="10" y="138">  8.  2017-03-25 14:39:06 +0000    76620 byte  dist/vue.min.js</tspan>
-<tspan x="10" y="154">  9.  2017-03-25 14:39:06 +0000   177797 byte  dist/vue.runtime.common.js</tspan>
-<tspan x="10" y="170"> 10.  2017-03-25 14:39:06 +0000   177780 byte  dist/vue.runtime.esm.js</tspan>
-<tspan x="10" y="186"> 11.  2017-03-25 14:39:06 +0000   176314 byte  dist/vue.runtime.js</tspan>
-<tspan x="10" y="202"> 12.  2017-03-25 14:39:06 +0000    54510 byte  dist/vue.runtime.min.js</tspan>
-<tspan x="10" y="218"> 13.  2017-03-25 14:39:06 +0000     6011 byte  package.json</tspan>
-<tspan x="10" y="234"> 14.  2017-03-25 14:39:06 +0000     3133 byte  src/compiler/codegen/events.js</tspan>
-<tspan x="10" y="250"> 15.  2017-03-25 14:39:06 +0000    11498 byte  src/compiler/codegen/index.js</tspan>
-<tspan x="10" y="266"> 16.  2017-03-25 14:39:06 +0000      237 byte  src/compiler/directives/bind.js</tspan>
-<tspan x="10" y="282"> 17.  2017-03-25 14:39:06 +0000      116 byte  src/compiler/directives/index.js</tspan>
-<tspan x="10" y="298"> 18.  2017-03-25 14:39:06 +0000     2853 byte  src/compiler/directives/model.js</tspan>
-<tspan x="10" y="314"> 19.  2017-03-25 14:39:06 +0000     3262 byte  src/compiler/error-detector.js</tspan>
-<tspan x="10" y="330"> 20.  2017-03-25 14:39:06 +0000     2552 byte  src/compiler/helpers.js</tspan>
-<tspan x="10" y="346"> 21.  2017-03-25 14:39:06 +0000     4445 byte  src/compiler/index.js</tspan>
-<tspan x="10" y="362"> 22.  2017-03-25 14:39:06 +0000     3515 byte  src/compiler/optimizer.js</tspan>
-<tspan x="10" y="378"> 23.  2017-03-25 14:39:06 +0000      185 byte  src/compiler/parser/entity-decoder.js</tspan>
-<tspan x="10" y="394"> 24.  2017-03-25 14:39:06 +0000     2674 byte  src/compiler/parser/filter-parser.js</tspan>
-<tspan x="10" y="410"> 25.  2017-03-25 14:39:06 +0000     8715 byte  src/compiler/parser/html-parser.js</tspan>
-<tspan x="10" y="426"> 26.  2017-03-25 14:39:06 +0000    15571 byte  src/compiler/parser/index.js</tspan>
-<tspan x="10" y="442"> 27.  2017-03-25 14:39:06 +0000     1138 byte  src/compiler/parser/text-parser.js</tspan>
-<tspan x="10" y="458"> 28.  2017-03-25 14:39:06 +0000       69 byte  src/core/components/index.js</tspan>
-<tspan x="10" y="474"> 29.  2017-03-25 14:39:06 +0000     2653 byte  src/core/components/keep-alive.js</tspan>
-<tspan x="10" y="490"> 30.  2017-03-25 14:39:06 +0000     2563 byte  src/core/config.js</tspan>
-<tspan x="10" y="506"> 31.  2017-03-25 14:39:06 +0000     1180 byte  src/core/global-api/assets.js</tspan>
-<tspan x="10" y="522"> 32.  2017-03-25 14:39:06 +0000     2834 byte  src/core/global-api/extend.js</tspan>
-<tspan x="10" y="538"> 33.  2017-03-25 14:39:06 +0000     1456 byte  src/core/global-api/index.js</tspan>
-<tspan x="10" y="554"> 34.  2017-03-25 14:39:06 +0000      204 byte  src/core/global-api/mixin.js</tspan>
-<tspan x="10" y="570"> 35.  2017-03-25 14:39:06 +0000      538 byte  src/core/global-api/use.js</tspan>
-<tspan x="10" y="586"> 36.  2017-03-25 14:39:06 +0000      286 byte  src/core/index.js</tspan>
-<tspan x="10" y="602"> 37.  2017-03-25 14:39:06 +0000     3382 byte  src/core/instance/events.js</tspan>
-<tspan x="10" y="618"> 38.  2017-03-25 14:39:06 +0000      546 byte  src/core/instance/index.js</tspan>
-<tspan x="10" y="634"> 39.  2017-03-25 14:39:06 +0000     4344 byte  src/core/instance/init.js</tspan>
-<tspan x="10" y="650"> 40.  2017-03-25 14:39:06 +0000     1573 byte  src/core/instance/inject.js</tspan>
-<tspan x="10" y="666"> 41.  2017-03-25 14:39:06 +0000     8276 byte  src/core/instance/lifecycle.js</tspan>
-<tspan x="10" y="682"> 42.  2017-03-25 14:39:06 +0000     2118 byte  src/core/instance/proxy.js</tspan>
-<tspan x="10" y="698"> 43.  2017-03-25 14:39:06 +0000     1030 byte  src/core/instance/render-helpers/bind-object-prop\</tspan>
+<tspan x="10" y="26">  1.  2017-03-25 16:42:32 +0000     1091 byte  LICENSE</tspan>
+<tspan x="10" y="42">  2.  2017-03-25 16:42:32 +0000     5508 byte  README.md</tspan>
+<tspan x="10" y="58">  3.  2017-03-25 16:42:32 +0000     4282 byte  dist/README.md</tspan>
+<tspan x="10" y="74">  4.  2017-03-25 16:42:32 +0000   246248 byte  dist/vue.common.js</tspan>
+<tspan x="10" y="90">  5.  2017-03-25 16:42:32 +0000    46860 byte  dist/vue.common.min.js</tspan>
+<tspan x="10" y="106">  6.  2017-03-25 16:42:32 +0000   246231 byte  dist/vue.esm.js</tspan>
+<tspan x="10" y="122">  7.  2017-03-25 16:42:32 +0000   244087 byte  dist/vue.js</tspan>
+<tspan x="10" y="138">  8.  2017-03-25 16:42:32 +0000    76620 byte  dist/vue.min.js</tspan>
+<tspan x="10" y="154">  9.  2017-03-25 16:42:32 +0000   177797 byte  dist/vue.runtime.common.js</tspan>
+<tspan x="10" y="170"> 10.  2017-03-25 16:42:32 +0000   177780 byte  dist/vue.runtime.esm.js</tspan>
+<tspan x="10" y="186"> 11.  2017-03-25 16:42:32 +0000   176314 byte  dist/vue.runtime.js</tspan>
+<tspan x="10" y="202"> 12.  2017-03-25 16:42:32 +0000    54510 byte  dist/vue.runtime.min.js</tspan>
+<tspan x="10" y="218"> 13.  2017-03-25 16:42:32 +0000     6011 byte  package.json</tspan>
+<tspan x="10" y="234"> 14.  2017-03-25 16:42:32 +0000     3133 byte  src/compiler/codegen/events.js</tspan>
+<tspan x="10" y="250"> 15.  2017-03-25 16:42:32 +0000    11498 byte  src/compiler/codegen/index.js</tspan>
+<tspan x="10" y="266"> 16.  2017-03-25 16:42:32 +0000      237 byte  src/compiler/directives/bind.js</tspan>
+<tspan x="10" y="282"> 17.  2017-03-25 16:42:32 +0000      116 byte  src/compiler/directives/index.js</tspan>
+<tspan x="10" y="298"> 18.  2017-03-25 16:42:32 +0000     2853 byte  src/compiler/directives/model.js</tspan>
+<tspan x="10" y="314"> 19.  2017-03-25 16:42:32 +0000     3262 byte  src/compiler/error-detector.js</tspan>
+<tspan x="10" y="330"> 20.  2017-03-25 16:42:32 +0000     2552 byte  src/compiler/helpers.js</tspan>
+<tspan x="10" y="346"> 21.  2017-03-25 16:42:32 +0000     4445 byte  src/compiler/index.js</tspan>
+<tspan x="10" y="362"> 22.  2017-03-25 16:42:32 +0000     3515 byte  src/compiler/optimizer.js</tspan>
+<tspan x="10" y="378"> 23.  2017-03-25 16:42:32 +0000      185 byte  src/compiler/parser/entity-decoder.js</tspan>
+<tspan x="10" y="394"> 24.  2017-03-25 16:42:32 +0000     2674 byte  src/compiler/parser/filter-parser.js</tspan>
+<tspan x="10" y="410"> 25.  2017-03-25 16:42:32 +0000     8715 byte  src/compiler/parser/html-parser.js</tspan>
+<tspan x="10" y="426"> 26.  2017-03-25 16:42:32 +0000    15571 byte  src/compiler/parser/index.js</tspan>
+<tspan x="10" y="442"> 27.  2017-03-25 16:42:32 +0000     1138 byte  src/compiler/parser/text-parser.js</tspan>
+<tspan x="10" y="458"> 28.  2017-03-25 16:42:32 +0000       69 byte  src/core/components/index.js</tspan>
+<tspan x="10" y="474"> 29.  2017-03-25 16:42:32 +0000     2653 byte  src/core/components/keep-alive.js</tspan>
+<tspan x="10" y="490"> 30.  2017-03-25 16:42:32 +0000     2563 byte  src/core/config.js</tspan>
+<tspan x="10" y="506"> 31.  2017-03-25 16:42:32 +0000     1180 byte  src/core/global-api/assets.js</tspan>
+<tspan x="10" y="522"> 32.  2017-03-25 16:42:32 +0000     2834 byte  src/core/global-api/extend.js</tspan>
+<tspan x="10" y="538"> 33.  2017-03-25 16:42:32 +0000     1456 byte  src/core/global-api/index.js</tspan>
+<tspan x="10" y="554"> 34.  2017-03-25 16:42:32 +0000      204 byte  src/core/global-api/mixin.js</tspan>
+<tspan x="10" y="570"> 35.  2017-03-25 16:42:32 +0000      538 byte  src/core/global-api/use.js</tspan>
+<tspan x="10" y="586"> 36.  2017-03-25 16:42:32 +0000      286 byte  src/core/index.js</tspan>
+<tspan x="10" y="602"> 37.  2017-03-25 16:42:32 +0000     3382 byte  src/core/instance/events.js</tspan>
+<tspan x="10" y="618"> 38.  2017-03-25 16:42:32 +0000      546 byte  src/core/instance/index.js</tspan>
+<tspan x="10" y="634"> 39.  2017-03-25 16:42:32 +0000     4344 byte  src/core/instance/init.js</tspan>
+<tspan x="10" y="650"> 40.  2017-03-25 16:42:32 +0000     1573 byte  src/core/instance/inject.js</tspan>
+<tspan x="10" y="666"> 41.  2017-03-25 16:42:32 +0000     8276 byte  src/core/instance/lifecycle.js</tspan>
+<tspan x="10" y="682"> 42.  2017-03-25 16:42:32 +0000     2118 byte  src/core/instance/proxy.js</tspan>
+<tspan x="10" y="698"> 43.  2017-03-25 16:42:32 +0000     1030 byte  src/core/instance/render-helpers/bind-object-prop\</tspan>
 <tspan x="10" y="714">s.js</tspan>
-<tspan x="10" y="730"> 44.  2017-03-25 14:39:06 +0000      430 byte  src/core/instance/render-helpers/check-keycodes.j\</tspan>
+<tspan x="10" y="730"> 44.  2017-03-25 16:42:32 +0000      430 byte  src/core/instance/render-helpers/check-keycodes.j\</tspan>
 <tspan x="10" y="746">s</tspan>
-<tspan x="10" y="762"> 45.  2017-03-25 14:39:06 +0000      764 byte  src/core/instance/render-helpers/render-list.js</tspan>
-<tspan x="10" y="778"> 46.  2017-03-25 14:39:06 +0000      861 byte  src/core/instance/render-helpers/render-slot.js</tspan>
-<tspan x="10" y="794"> 47.  2017-03-25 14:39:06 +0000     1429 byte  src/core/instance/render-helpers/render-static.js</tspan>
-<tspan x="10" y="810"> 48.  2017-03-25 14:39:06 +0000      246 byte  src/core/instance/render-helpers/resolve-filter.j\</tspan>
+<tspan x="10" y="762"> 45.  2017-03-25 16:42:32 +0000      764 byte  src/core/instance/render-helpers/render-list.js</tspan>
+<tspan x="10" y="778"> 46.  2017-03-25 16:42:32 +0000      861 byte  src/core/instance/render-helpers/render-slot.js</tspan>
+<tspan x="10" y="794"> 47.  2017-03-25 16:42:32 +0000     1429 byte  src/core/instance/render-helpers/render-static.js</tspan>
+<tspan x="10" y="810"> 48.  2017-03-25 16:42:32 +0000      246 byte  src/core/instance/render-helpers/resolve-filter.j\</tspan>
 <tspan x="10" y="826">s</tspan>
-<tspan x="10" y="842"> 49.  2017-03-25 14:39:06 +0000     1280 byte  src/core/instance/render-helpers/resolve-slots.js</tspan>
-<tspan x="10" y="858"> 50.  2017-03-25 14:39:06 +0000     4057 byte  src/core/instance/render.js</tspan>
-<tspan x="10" y="874"> 51.  2017-03-25 14:39:06 +0000     7823 byte  src/core/instance/state.js</tspan>
-<tspan x="10" y="890"> 52.  2017-03-25 14:39:06 +0000     1140 byte  src/core/observer/array.js</tspan>
-<tspan x="10" y="906"> 53.  2017-03-25 14:39:06 +0000     1096 byte  src/core/observer/dep.js</tspan>
-<tspan x="10" y="922"> 54.  2017-03-25 14:39:06 +0000     6277 byte  src/core/observer/index.js</tspan>
-<tspan x="10" y="938"> 55.  2017-03-25 14:39:06 +0000     3061 byte  src/core/observer/scheduler.js</tspan>
-<tspan x="10" y="954"> 56.  2017-03-25 14:39:06 +0000     5918 byte  src/core/observer/watcher.js</tspan>
-<tspan x="10" y="970"> 57.  2017-03-25 14:39:06 +0000     1589 byte  src/core/util/debug.js</tspan>
-<tspan x="10" y="986"> 58.  2017-03-25 14:39:06 +0000     4610 byte  src/core/util/env.js</tspan>
-<tspan x="10" y="1002"> 59.  2017-03-25 14:39:06 +0000      476 byte  src/core/util/error.js</tspan>
-<tspan x="10" y="1018"> 60.  2017-03-25 14:39:06 +0000      222 byte  src/core/util/index.js</tspan>
-<tspan x="10" y="1034"> 61.  2017-03-25 14:39:06 +0000      810 byte  src/core/util/lang.js</tspan>
-<tspan x="10" y="1050"> 62.  2017-03-25 14:39:06 +0000     8135 byte  src/core/util/options.js</tspan>
-<tspan x="10" y="1066"> 63.  2017-03-25 14:39:06 +0000      523 byte  src/core/util/perf.js</tspan>
-<tspan x="10" y="1082"> 64.  2017-03-25 14:39:06 +0000     4876 byte  src/core/util/props.js</tspan>
-<tspan x="10" y="1098"> 65.  2017-03-25 14:39:06 +0000    10310 byte  src/core/vdom/create-component.js</tspan>
-<tspan x="10" y="1114"> 66.  2017-03-25 14:39:06 +0000     3197 byte  src/core/vdom/create-element.js</tspan>
-<tspan x="10" y="1130"> 67.  2017-03-25 14:39:06 +0000      271 byte  src/core/vdom/helpers/index.js</tspan>
-<tspan x="10" y="1146"> 68.  2017-03-25 14:39:06 +0000      854 byte  src/core/vdom/helpers/merge-hook.js</tspan>
-<tspan x="10" y="1162"> 69.  2017-03-25 14:39:06 +0000     2574 byte  src/core/vdom/helpers/normalize-children.js</tspan>
-<tspan x="10" y="1178"> 70.  2017-03-25 14:39:06 +0000     1632 byte  src/core/vdom/helpers/update-listeners.js</tspan>
-<tspan x="10" y="1194"> 71.  2017-03-25 14:39:06 +0000     2982 byte  src/core/vdom/modules/directives.js</tspan>
-<tspan x="10" y="1210"> 72.  2017-03-25 14:39:06 +0000      102 byte  src/core/vdom/modules/index.js</tspan>
-<tspan x="10" y="1226"> 73.  2017-03-25 14:39:06 +0000      999 byte  src/core/vdom/modules/ref.js</tspan>
-<tspan x="10" y="1242"> 74.  2017-03-25 14:39:06 +0000    22194 byte  src/core/vdom/patch.js</tspan>
-<tspan x="10" y="1258"> 75.  2017-03-25 14:39:06 +0000     2697 byte  src/core/vdom/vnode.js</tspan>
-<tspan x="10" y="1274"> 76.  2017-03-25 14:39:06 +0000      122 byte  src/entries/web-compiler.js</tspan>
-<tspan x="10" y="1290"> 77.  2017-03-25 14:39:06 +0000     2719 byte  src/entries/web-runtime-with-compiler.js</tspan>
-<tspan x="10" y="1306"> 78.  2017-03-25 14:39:06 +0000     2014 byte  src/entries/web-runtime.js</tspan>
-<tspan x="10" y="1322"> 79.  2017-03-25 14:39:06 +0000      948 byte  src/entries/web-server-renderer.js</tspan>
-<tspan x="10" y="1338"> 80.  2017-03-25 14:39:06 +0000       59 byte  src/entries/weex-compiler.js</tspan>
-<tspan x="10" y="1354"> 81.  2017-03-25 14:39:06 +0000      181 byte  src/entries/weex-factory.js</tspan>
-<tspan x="10" y="1370"> 82.  2017-03-25 14:39:06 +0000       31 byte  src/entries/weex-framework.js</tspan>
-<tspan x="10" y="1386"> 83.  2017-03-25 14:39:06 +0000      198 byte  src/platforms/web/compiler/directives/html.js</tspan>
-<tspan x="10" y="1402"> 84.  2017-03-25 14:39:06 +0000      124 byte  src/platforms/web/compiler/directives/index.js</tspan>
-<tspan x="10" y="1418"> 85.  2017-03-25 14:39:06 +0000     5094 byte  src/platforms/web/compiler/directives/model.js</tspan>
-<tspan x="10" y="1434"> 86.  2017-03-25 14:39:06 +0000      200 byte  src/platforms/web/compiler/directives/text.js</tspan>
-<tspan x="10" y="1450"> 87.  2017-03-25 14:39:06 +0000      673 byte  src/platforms/web/compiler/index.js</tspan>
-<tspan x="10" y="1466"> 88.  2017-03-25 14:39:06 +0000     1241 byte  src/platforms/web/compiler/modules/class.js</tspan>
-<tspan x="10" y="1482"> 89.  2017-03-25 14:39:06 +0000       93 byte  src/platforms/web/compiler/modules/index.js</tspan>
-<tspan x="10" y="1498"> 90.  2017-03-25 14:39:06 +0000     1344 byte  src/platforms/web/compiler/modules/style.js</tspan>
-<tspan x="10" y="1514"> 91.  2017-03-25 14:39:06 +0000      904 byte  src/platforms/web/compiler/util.js</tspan>
-<tspan x="10" y="1530"> 92.  2017-03-25 14:39:06 +0000     1282 byte  src/platforms/web/runtime/class-util.js</tspan>
-<tspan x="10" y="1546"> 93.  2017-03-25 14:39:06 +0000      139 byte  src/platforms/web/runtime/components/index.js</tspan>
-<tspan x="10" y="1562"> 94.  2017-03-25 14:39:06 +0000     5543 byte  src/platforms/web/runtime/components/transition-g\</tspan>
+<tspan x="10" y="842"> 49.  2017-03-25 16:42:32 +0000     1280 byte  src/core/instance/render-helpers/resolve-slots.js</tspan>
+<tspan x="10" y="858"> 50.  2017-03-25 16:42:32 +0000     4057 byte  src/core/instance/render.js</tspan>
+<tspan x="10" y="874"> 51.  2017-03-25 16:42:32 +0000     7823 byte  src/core/instance/state.js</tspan>
+<tspan x="10" y="890"> 52.  2017-03-25 16:42:32 +0000     1140 byte  src/core/observer/array.js</tspan>
+<tspan x="10" y="906"> 53.  2017-03-25 16:42:32 +0000     1096 byte  src/core/observer/dep.js</tspan>
+<tspan x="10" y="922"> 54.  2017-03-25 16:42:32 +0000     6277 byte  src/core/observer/index.js</tspan>
+<tspan x="10" y="938"> 55.  2017-03-25 16:42:32 +0000     3061 byte  src/core/observer/scheduler.js</tspan>
+<tspan x="10" y="954"> 56.  2017-03-25 16:42:32 +0000     5918 byte  src/core/observer/watcher.js</tspan>
+<tspan x="10" y="970"> 57.  2017-03-25 16:42:32 +0000     1589 byte  src/core/util/debug.js</tspan>
+<tspan x="10" y="986"> 58.  2017-03-25 16:42:32 +0000     4610 byte  src/core/util/env.js</tspan>
+<tspan x="10" y="1002"> 59.  2017-03-25 16:42:32 +0000      476 byte  src/core/util/error.js</tspan>
+<tspan x="10" y="1018"> 60.  2017-03-25 16:42:32 +0000      222 byte  src/core/util/index.js</tspan>
+<tspan x="10" y="1034"> 61.  2017-03-25 16:42:32 +0000      810 byte  src/core/util/lang.js</tspan>
+<tspan x="10" y="1050"> 62.  2017-03-25 16:42:32 +0000     8135 byte  src/core/util/options.js</tspan>
+<tspan x="10" y="1066"> 63.  2017-03-25 16:42:32 +0000      523 byte  src/core/util/perf.js</tspan>
+<tspan x="10" y="1082"> 64.  2017-03-25 16:42:32 +0000     4876 byte  src/core/util/props.js</tspan>
+<tspan x="10" y="1098"> 65.  2017-03-25 16:42:32 +0000    10310 byte  src/core/vdom/create-component.js</tspan>
+<tspan x="10" y="1114"> 66.  2017-03-25 16:42:32 +0000     3197 byte  src/core/vdom/create-element.js</tspan>
+<tspan x="10" y="1130"> 67.  2017-03-25 16:42:32 +0000      271 byte  src/core/vdom/helpers/index.js</tspan>
+<tspan x="10" y="1146"> 68.  2017-03-25 16:42:32 +0000      854 byte  src/core/vdom/helpers/merge-hook.js</tspan>
+<tspan x="10" y="1162"> 69.  2017-03-25 16:42:32 +0000     2574 byte  src/core/vdom/helpers/normalize-children.js</tspan>
+<tspan x="10" y="1178"> 70.  2017-03-25 16:42:32 +0000     1632 byte  src/core/vdom/helpers/update-listeners.js</tspan>
+<tspan x="10" y="1194"> 71.  2017-03-25 16:42:32 +0000     2982 byte  src/core/vdom/modules/directives.js</tspan>
+<tspan x="10" y="1210"> 72.  2017-03-25 16:42:32 +0000      102 byte  src/core/vdom/modules/index.js</tspan>
+<tspan x="10" y="1226"> 73.  2017-03-25 16:42:32 +0000      999 byte  src/core/vdom/modules/ref.js</tspan>
+<tspan x="10" y="1242"> 74.  2017-03-25 16:42:32 +0000    22194 byte  src/core/vdom/patch.js</tspan>
+<tspan x="10" y="1258"> 75.  2017-03-25 16:42:32 +0000     2697 byte  src/core/vdom/vnode.js</tspan>
+<tspan x="10" y="1274"> 76.  2017-03-25 16:42:32 +0000      122 byte  src/entries/web-compiler.js</tspan>
+<tspan x="10" y="1290"> 77.  2017-03-25 16:42:32 +0000     2719 byte  src/entries/web-runtime-with-compiler.js</tspan>
+<tspan x="10" y="1306"> 78.  2017-03-25 16:42:32 +0000     2014 byte  src/entries/web-runtime.js</tspan>
+<tspan x="10" y="1322"> 79.  2017-03-25 16:42:32 +0000      948 byte  src/entries/web-server-renderer.js</tspan>
+<tspan x="10" y="1338"> 80.  2017-03-25 16:42:32 +0000       59 byte  src/entries/weex-compiler.js</tspan>
+<tspan x="10" y="1354"> 81.  2017-03-25 16:42:32 +0000      181 byte  src/entries/weex-factory.js</tspan>
+<tspan x="10" y="1370"> 82.  2017-03-25 16:42:32 +0000       31 byte  src/entries/weex-framework.js</tspan>
+<tspan x="10" y="1386"> 83.  2017-03-25 16:42:32 +0000      198 byte  src/platforms/web/compiler/directives/html.js</tspan>
+<tspan x="10" y="1402"> 84.  2017-03-25 16:42:32 +0000      124 byte  src/platforms/web/compiler/directives/index.js</tspan>
+<tspan x="10" y="1418"> 85.  2017-03-25 16:42:32 +0000     5094 byte  src/platforms/web/compiler/directives/model.js</tspan>
+<tspan x="10" y="1434"> 86.  2017-03-25 16:42:32 +0000      200 byte  src/platforms/web/compiler/directives/text.js</tspan>
+<tspan x="10" y="1450"> 87.  2017-03-25 16:42:32 +0000      673 byte  src/platforms/web/compiler/index.js</tspan>
+<tspan x="10" y="1466"> 88.  2017-03-25 16:42:32 +0000     1241 byte  src/platforms/web/compiler/modules/class.js</tspan>
+<tspan x="10" y="1482"> 89.  2017-03-25 16:42:32 +0000       93 byte  src/platforms/web/compiler/modules/index.js</tspan>
+<tspan x="10" y="1498"> 90.  2017-03-25 16:42:32 +0000     1344 byte  src/platforms/web/compiler/modules/style.js</tspan>
+<tspan x="10" y="1514"> 91.  2017-03-25 16:42:32 +0000      904 byte  src/platforms/web/compiler/util.js</tspan>
+<tspan x="10" y="1530"> 92.  2017-03-25 16:42:32 +0000     1282 byte  src/platforms/web/runtime/class-util.js</tspan>
+<tspan x="10" y="1546"> 93.  2017-03-25 16:42:32 +0000      139 byte  src/platforms/web/runtime/components/index.js</tspan>
+<tspan x="10" y="1562"> 94.  2017-03-25 16:42:32 +0000     5543 byte  src/platforms/web/runtime/components/transition-g\</tspan>
 <tspan x="10" y="1578">roup.js</tspan>
-<tspan x="10" y="1594"> 95.  2017-03-25 14:39:06 +0000     5222 byte  src/platforms/web/runtime/components/transition.j\</tspan>
+<tspan x="10" y="1594"> 95.  2017-03-25 16:42:32 +0000     5222 byte  src/platforms/web/runtime/components/transition.j\</tspan>
 <tspan x="10" y="1610">s</tspan>
-<tspan x="10" y="1626"> 96.  2017-03-25 14:39:06 +0000       90 byte  src/platforms/web/runtime/directives/index.js</tspan>
-<tspan x="10" y="1642"> 97.  2017-03-25 14:39:06 +0000     3363 byte  src/platforms/web/runtime/directives/model.js</tspan>
-<tspan x="10" y="1658"> 98.  2017-03-25 14:39:06 +0000     1703 byte  src/platforms/web/runtime/directives/show.js</tspan>
-<tspan x="10" y="1674"> 99.  2017-03-25 14:39:06 +0000     1985 byte  src/platforms/web/runtime/modules/attrs.js</tspan>
-<tspan x="10" y="1690">100.  2017-03-25 14:39:06 +0000      744 byte  src/platforms/web/runtime/modules/class.js</tspan>
-<tspan x="10" y="1706">101.  2017-03-25 14:39:06 +0000     2415 byte  src/platforms/web/runtime/modules/dom-props.js</tspan>
-<tspan x="10" y="1722">102.  2017-03-25 14:39:06 +0000     2069 byte  src/platforms/web/runtime/modules/events.js</tspan>
-<tspan x="10" y="1738">103.  2017-03-25 14:39:06 +0000      269 byte  src/platforms/web/runtime/modules/index.js</tspan>
-<tspan x="10" y="1754">104.  2017-03-25 14:39:06 +0000     2040 byte  src/platforms/web/runtime/modules/style.js</tspan>
-<tspan x="10" y="1770">105.  2017-03-25 14:39:06 +0000     8012 byte  src/platforms/web/runtime/modules/transition.js</tspan>
-<tspan x="10" y="1786">106.  2017-03-25 14:39:06 +0000     1522 byte  src/platforms/web/runtime/node-ops.js</tspan>
-<tspan x="10" y="1802">107.  2017-03-25 14:39:06 +0000      445 byte  src/platforms/web/runtime/patch.js</tspan>
-<tspan x="10" y="1818">108.  2017-03-25 14:39:06 +0000     4940 byte  src/platforms/web/runtime/transition-util.js</tspan>
-<tspan x="10" y="1834">109.  2017-03-25 14:39:06 +0000       53 byte  src/platforms/web/server/directives/index.js</tspan>
-<tspan x="10" y="1850">110.  2017-03-25 14:39:06 +0000      205 byte  src/platforms/web/server/directives/show.js</tspan>
-<tspan x="10" y="1866">111.  2017-03-25 14:39:06 +0000     1000 byte  src/platforms/web/server/modules/attrs.js</tspan>
-<tspan x="10" y="1882">112.  2017-03-25 14:39:06 +0000      236 byte  src/platforms/web/server/modules/class.js</tspan>
-<tspan x="10" y="1898">113.  2017-03-25 14:39:06 +0000     1135 byte  src/platforms/web/server/modules/dom-props.js</tspan>
-<tspan x="10" y="1914">114.  2017-03-25 14:39:06 +0000      177 byte  src/platforms/web/server/modules/index.js</tspan>
-<tspan x="10" y="1930">115.  2017-03-25 14:39:06 +0000      493 byte  src/platforms/web/server/modules/style.js</tspan>
-<tspan x="10" y="1946">116.  2017-03-25 14:39:06 +0000     1400 byte  src/platforms/web/server/util.js</tspan>
-<tspan x="10" y="1962">117.  2017-03-25 14:39:06 +0000     1409 byte  src/platforms/web/util/attrs.js</tspan>
-<tspan x="10" y="1978">118.  2017-03-25 14:39:06 +0000     1782 byte  src/platforms/web/util/class.js</tspan>
-<tspan x="10" y="1994">119.  2017-03-25 14:39:06 +0000      497 byte  src/platforms/web/util/compat.js</tspan>
-<tspan x="10" y="2010">120.  2017-03-25 14:39:06 +0000     2423 byte  src/platforms/web/util/element.js</tspan>
-<tspan x="10" y="2026">121.  2017-03-25 14:39:06 +0000      552 byte  src/platforms/web/util/index.js</tspan>
-<tspan x="10" y="2042">122.  2017-03-25 14:39:06 +0000     1895 byte  src/platforms/web/util/style.js</tspan>
-<tspan x="10" y="2058">123.  2017-03-25 14:39:06 +0000       56 byte  src/platforms/weex/compiler/directives/index.js</tspan>
-<tspan x="10" y="2074">124.  2017-03-25 14:39:06 +0000      902 byte  src/platforms/weex/compiler/directives/model.js</tspan>
-<tspan x="10" y="2090">125.  2017-03-25 14:39:06 +0000      638 byte  src/platforms/weex/compiler/index.js</tspan>
-<tspan x="10" y="2106">126.  2017-03-25 14:39:06 +0000      512 byte  src/platforms/weex/compiler/modules/append.js</tspan>
-<tspan x="10" y="2122">127.  2017-03-25 14:39:06 +0000     1923 byte  src/platforms/weex/compiler/modules/class.js</tspan>
-<tspan x="10" y="2138">128.  2017-03-25 14:39:06 +0000      170 byte  src/platforms/weex/compiler/modules/index.js</tspan>
-<tspan x="10" y="2154">129.  2017-03-25 14:39:06 +0000      793 byte  src/platforms/weex/compiler/modules/props.js</tspan>
-<tspan x="10" y="2170">130.  2017-03-25 14:39:06 +0000     2249 byte  src/platforms/weex/compiler/modules/style.js</tspan>
-<tspan x="10" y="2186">131.  2017-03-25 14:39:06 +0000    11916 byte  src/platforms/weex/framework.js</tspan>
-<tspan x="10" y="2202">132.  2017-03-25 14:39:06 +0000      139 byte  src/platforms/weex/runtime/components/index.js</tspan>
-<tspan x="10" y="2218">133.  2017-03-25 14:39:06 +0000     3965 byte  src/platforms/weex/runtime/components/transition-\</tspan>
+<tspan x="10" y="1626"> 96.  2017-03-25 16:42:32 +0000       90 byte  src/platforms/web/runtime/directives/index.js</tspan>
+<tspan x="10" y="1642"> 97.  2017-03-25 16:42:32 +0000     3363 byte  src/platforms/web/runtime/directives/model.js</tspan>
+<tspan x="10" y="1658"> 98.  2017-03-25 16:42:32 +0000     1703 byte  src/platforms/web/runtime/directives/show.js</tspan>
+<tspan x="10" y="1674"> 99.  2017-03-25 16:42:32 +0000     1985 byte  src/platforms/web/runtime/modules/attrs.js</tspan>
+<tspan x="10" y="1690">100.  2017-03-25 16:42:32 +0000      744 byte  src/platforms/web/runtime/modules/class.js</tspan>
+<tspan x="10" y="1706">101.  2017-03-25 16:42:32 +0000     2415 byte  src/platforms/web/runtime/modules/dom-props.js</tspan>
+<tspan x="10" y="1722">102.  2017-03-25 16:42:32 +0000     2069 byte  src/platforms/web/runtime/modules/events.js</tspan>
+<tspan x="10" y="1738">103.  2017-03-25 16:42:32 +0000      269 byte  src/platforms/web/runtime/modules/index.js</tspan>
+<tspan x="10" y="1754">104.  2017-03-25 16:42:32 +0000     2040 byte  src/platforms/web/runtime/modules/style.js</tspan>
+<tspan x="10" y="1770">105.  2017-03-25 16:42:32 +0000     8012 byte  src/platforms/web/runtime/modules/transition.js</tspan>
+<tspan x="10" y="1786">106.  2017-03-25 16:42:32 +0000     1522 byte  src/platforms/web/runtime/node-ops.js</tspan>
+<tspan x="10" y="1802">107.  2017-03-25 16:42:32 +0000      445 byte  src/platforms/web/runtime/patch.js</tspan>
+<tspan x="10" y="1818">108.  2017-03-25 16:42:32 +0000     4940 byte  src/platforms/web/runtime/transition-util.js</tspan>
+<tspan x="10" y="1834">109.  2017-03-25 16:42:32 +0000       53 byte  src/platforms/web/server/directives/index.js</tspan>
+<tspan x="10" y="1850">110.  2017-03-25 16:42:32 +0000      205 byte  src/platforms/web/server/directives/show.js</tspan>
+<tspan x="10" y="1866">111.  2017-03-25 16:42:32 +0000     1000 byte  src/platforms/web/server/modules/attrs.js</tspan>
+<tspan x="10" y="1882">112.  2017-03-25 16:42:32 +0000      236 byte  src/platforms/web/server/modules/class.js</tspan>
+<tspan x="10" y="1898">113.  2017-03-25 16:42:32 +0000     1135 byte  src/platforms/web/server/modules/dom-props.js</tspan>
+<tspan x="10" y="1914">114.  2017-03-25 16:42:32 +0000      177 byte  src/platforms/web/server/modules/index.js</tspan>
+<tspan x="10" y="1930">115.  2017-03-25 16:42:32 +0000      493 byte  src/platforms/web/server/modules/style.js</tspan>
+<tspan x="10" y="1946">116.  2017-03-25 16:42:32 +0000     1400 byte  src/platforms/web/server/util.js</tspan>
+<tspan x="10" y="1962">117.  2017-03-25 16:42:32 +0000     1409 byte  src/platforms/web/util/attrs.js</tspan>
+<tspan x="10" y="1978">118.  2017-03-25 16:42:32 +0000     1782 byte  src/platforms/web/util/class.js</tspan>
+<tspan x="10" y="1994">119.  2017-03-25 16:42:32 +0000      497 byte  src/platforms/web/util/compat.js</tspan>
+<tspan x="10" y="2010">120.  2017-03-25 16:42:32 +0000     2423 byte  src/platforms/web/util/element.js</tspan>
+<tspan x="10" y="2026">121.  2017-03-25 16:42:32 +0000      552 byte  src/platforms/web/util/index.js</tspan>
+<tspan x="10" y="2042">122.  2017-03-25 16:42:32 +0000     1895 byte  src/platforms/web/util/style.js</tspan>
+<tspan x="10" y="2058">123.  2017-03-25 16:42:32 +0000       56 byte  src/platforms/weex/compiler/directives/index.js</tspan>
+<tspan x="10" y="2074">124.  2017-03-25 16:42:32 +0000      902 byte  src/platforms/weex/compiler/directives/model.js</tspan>
+<tspan x="10" y="2090">125.  2017-03-25 16:42:32 +0000      638 byte  src/platforms/weex/compiler/index.js</tspan>
+<tspan x="10" y="2106">126.  2017-03-25 16:42:32 +0000      512 byte  src/platforms/weex/compiler/modules/append.js</tspan>
+<tspan x="10" y="2122">127.  2017-03-25 16:42:32 +0000     1923 byte  src/platforms/weex/compiler/modules/class.js</tspan>
+<tspan x="10" y="2138">128.  2017-03-25 16:42:32 +0000      170 byte  src/platforms/weex/compiler/modules/index.js</tspan>
+<tspan x="10" y="2154">129.  2017-03-25 16:42:32 +0000      793 byte  src/platforms/weex/compiler/modules/props.js</tspan>
+<tspan x="10" y="2170">130.  2017-03-25 16:42:32 +0000     2249 byte  src/platforms/weex/compiler/modules/style.js</tspan>
+<tspan x="10" y="2186">131.  2017-03-25 16:42:32 +0000    11916 byte  src/platforms/weex/framework.js</tspan>
+<tspan x="10" y="2202">132.  2017-03-25 16:42:32 +0000      139 byte  src/platforms/weex/runtime/components/index.js</tspan>
+<tspan x="10" y="2218">133.  2017-03-25 16:42:32 +0000     3965 byte  src/platforms/weex/runtime/components/transition-\</tspan>
 <tspan x="10" y="2234">group.js</tspan>
-<tspan x="10" y="2250">134.  2017-03-25 14:39:06 +0000      232 byte  src/platforms/weex/runtime/components/transition.\</tspan>
+<tspan x="10" y="2250">134.  2017-03-25 16:42:32 +0000      232 byte  src/platforms/weex/runtime/components/transition.\</tspan>
 <tspan x="10" y="2266">js</tspan>
-<tspan x="10" y="2282">135.  2017-03-25 14:39:06 +0000       19 byte  src/platforms/weex/runtime/directives/index.js</tspan>
-<tspan x="10" y="2298">136.  2017-03-25 14:39:06 +0000      945 byte  src/platforms/weex/runtime/index.js</tspan>
-<tspan x="10" y="2314">137.  2017-03-25 14:39:06 +0000      744 byte  src/platforms/weex/runtime/modules/attrs.js</tspan>
-<tspan x="10" y="2330">138.  2017-03-25 14:39:06 +0000     1687 byte  src/platforms/weex/runtime/modules/class.js</tspan>
-<tspan x="10" y="2346">139.  2017-03-25 14:39:06 +0000     1165 byte  src/platforms/weex/runtime/modules/events.js</tspan>
-<tspan x="10" y="2362">140.  2017-03-25 14:39:06 +0000      222 byte  src/platforms/weex/runtime/modules/index.js</tspan>
-<tspan x="10" y="2378">141.  2017-03-25 14:39:06 +0000     1483 byte  src/platforms/weex/runtime/modules/style.js</tspan>
-<tspan x="10" y="2394">142.  2017-03-25 14:39:06 +0000     7394 byte  src/platforms/weex/runtime/modules/transition.js</tspan>
-<tspan x="10" y="2410">143.  2017-03-25 14:39:06 +0000     1691 byte  src/platforms/weex/runtime/node-ops.js</tspan>
-<tspan x="10" y="2426">144.  2017-03-25 14:39:06 +0000      478 byte  src/platforms/weex/runtime/patch.js</tspan>
-<tspan x="10" y="2442">145.  2017-03-25 14:39:06 +0000      184 byte  src/platforms/weex/runtime/text-node.js</tspan>
-<tspan x="10" y="2458">146.  2017-03-25 14:39:06 +0000     1339 byte  src/platforms/weex/util/index.js</tspan>
-<tspan x="10" y="2474">147.  2017-03-25 14:39:06 +0000     3914 byte  src/server/create-bundle-renderer.js</tspan>
-<tspan x="10" y="2490">148.  2017-03-25 14:39:06 +0000     2113 byte  src/server/create-bundle-runner.js</tspan>
-<tspan x="10" y="2506">149.  2017-03-25 14:39:06 +0000     2149 byte  src/server/create-renderer.js</tspan>
-<tspan x="10" y="2522">150.  2017-03-25 14:39:06 +0000     2890 byte  src/server/render-context.js</tspan>
-<tspan x="10" y="2538">151.  2017-03-25 14:39:06 +0000     2051 byte  src/server/render-stream.js</tspan>
-<tspan x="10" y="2554">152.  2017-03-25 14:39:06 +0000     6507 byte  src/server/render.js</tspan>
-<tspan x="10" y="2570">153.  2017-03-25 14:39:06 +0000     1238 byte  src/server/source-map-support.js</tspan>
-<tspan x="10" y="2586">154.  2017-03-25 14:39:06 +0000      747 byte  src/server/write.js</tspan>
-<tspan x="10" y="2602">155.  2017-03-25 14:39:06 +0000     2880 byte  src/sfc/parser.js</tspan>
-<tspan x="10" y="2618">156.  2017-03-25 14:39:06 +0000     5393 byte  src/shared/util.js</tspan>
-<tspan x="10" y="2634">157.  2017-03-25 14:39:06 +0000     1565 byte  types/index.d.ts</tspan>
-<tspan x="10" y="2650">158.  2017-03-25 14:39:06 +0000     3035 byte  types/options.d.ts</tspan>
-<tspan x="10" y="2666">159.  2017-03-25 14:39:06 +0000      201 byte  types/plugin.d.ts</tspan>
-<tspan x="10" y="2682">160.  2017-03-25 14:39:06 +0000     1684 byte  types/vnode.d.ts</tspan>
-<tspan x="10" y="2698">161.  2017-03-25 14:39:06 +0000     3265 byte  types/vue.d.ts</tspan>
-<tspan x="10" y="2714">162.  2017-03-25 14:39:06 +0000  1811183 byte  .</tspan>
+<tspan x="10" y="2282">135.  2017-03-25 16:42:32 +0000       19 byte  src/platforms/weex/runtime/directives/index.js</tspan>
+<tspan x="10" y="2298">136.  2017-03-25 16:42:32 +0000      945 byte  src/platforms/weex/runtime/index.js</tspan>
+<tspan x="10" y="2314">137.  2017-03-25 16:42:32 +0000      744 byte  src/platforms/weex/runtime/modules/attrs.js</tspan>
+<tspan x="10" y="2330">138.  2017-03-25 16:42:32 +0000     1687 byte  src/platforms/weex/runtime/modules/class.js</tspan>
+<tspan x="10" y="2346">139.  2017-03-25 16:42:32 +0000     1165 byte  src/platforms/weex/runtime/modules/events.js</tspan>
+<tspan x="10" y="2362">140.  2017-03-25 16:42:32 +0000      222 byte  src/platforms/weex/runtime/modules/index.js</tspan>
+<tspan x="10" y="2378">141.  2017-03-25 16:42:32 +0000     1483 byte  src/platforms/weex/runtime/modules/style.js</tspan>
+<tspan x="10" y="2394">142.  2017-03-25 16:42:32 +0000     7394 byte  src/platforms/weex/runtime/modules/transition.js</tspan>
+<tspan x="10" y="2410">143.  2017-03-25 16:42:32 +0000     1691 byte  src/platforms/weex/runtime/node-ops.js</tspan>
+<tspan x="10" y="2426">144.  2017-03-25 16:42:32 +0000      478 byte  src/platforms/weex/runtime/patch.js</tspan>
+<tspan x="10" y="2442">145.  2017-03-25 16:42:32 +0000      184 byte  src/platforms/weex/runtime/text-node.js</tspan>
+<tspan x="10" y="2458">146.  2017-03-25 16:42:32 +0000     1339 byte  src/platforms/weex/util/index.js</tspan>
+<tspan x="10" y="2474">147.  2017-03-25 16:42:32 +0000     3914 byte  src/server/create-bundle-renderer.js</tspan>
+<tspan x="10" y="2490">148.  2017-03-25 16:42:32 +0000     2113 byte  src/server/create-bundle-runner.js</tspan>
+<tspan x="10" y="2506">149.  2017-03-25 16:42:32 +0000     2149 byte  src/server/create-renderer.js</tspan>
+<tspan x="10" y="2522">150.  2017-03-25 16:42:32 +0000     2890 byte  src/server/render-context.js</tspan>
+<tspan x="10" y="2538">151.  2017-03-25 16:42:32 +0000     2051 byte  src/server/render-stream.js</tspan>
+<tspan x="10" y="2554">152.  2017-03-25 16:42:32 +0000     6507 byte  src/server/render.js</tspan>
+<tspan x="10" y="2570">153.  2017-03-25 16:42:32 +0000     1238 byte  src/server/source-map-support.js</tspan>
+<tspan x="10" y="2586">154.  2017-03-25 16:42:32 +0000      747 byte  src/server/write.js</tspan>
+<tspan x="10" y="2602">155.  2017-03-25 16:42:32 +0000     2880 byte  src/sfc/parser.js</tspan>
+<tspan x="10" y="2618">156.  2017-03-25 16:42:32 +0000     5393 byte  src/shared/util.js</tspan>
+<tspan x="10" y="2634">157.  2017-03-25 16:42:32 +0000     1565 byte  types/index.d.ts</tspan>
+<tspan x="10" y="2650">158.  2017-03-25 16:42:32 +0000     3035 byte  types/options.d.ts</tspan>
+<tspan x="10" y="2666">159.  2017-03-25 16:42:32 +0000      201 byte  types/plugin.d.ts</tspan>
+<tspan x="10" y="2682">160.  2017-03-25 16:42:32 +0000     1684 byte  types/vnode.d.ts</tspan>
+<tspan x="10" y="2698">161.  2017-03-25 16:42:32 +0000     3265 byte  types/vue.d.ts</tspan>
+<tspan x="10" y="2714">162.  2017-03-25 16:42:32 +0000  1811183 byte  .</tspan>
 </text>
 </svg>
