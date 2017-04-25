@@ -1,6 +1,6 @@
 # npmdoc-vue
 
-#### api documentation for  [vue (v2.2.6)](https://github.com/vuejs/vue#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-vue.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-vue) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-vue.svg)](https://travis-ci.org/npmdoc/node-npmdoc-vue)
+#### basic api documentation for  [vue (v2.2.6)](https://github.com/vuejs/vue#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-vue.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-vue) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-vue.svg)](https://travis-ci.org/npmdoc/node-npmdoc-vue)
 
 #### Reactive, component-oriented view layer for modern web interfaces.
 
@@ -147,7 +147,8 @@
     },
     "typings": "types/index.d.ts",
     "unpkg": "dist/vue.js",
-    "version": "2.2.6"
+    "version": "2.2.6",
+    "bin": {}
 }
 ```
 
